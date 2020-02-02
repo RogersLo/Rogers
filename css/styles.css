@@ -21,6 +21,7 @@ h2 {
 h3 {
   color: #11999E;
   font-family: 'Rubik', sans-serif;
+  font-size: 1.4rem;
 }
 
 hr{
@@ -32,6 +33,7 @@ hr{
 
 p{
   line-height: 2;
+  font-size: 1.3rem;
 }
 
 .self-descrip {
