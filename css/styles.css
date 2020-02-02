@@ -46,7 +46,7 @@ p{
   background-color: #E4f9F5;
   border: 10px;
   position: relative;
-  padding-top: 70px;
+  padding-top: 100px;
 }
 
 .middle-container{
@@ -81,13 +81,13 @@ p{
 
 .top-cloud {
   position: absolute;
-  right: 250px;
+  right: 10%;
   top: 40px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 250px;
+  left: 10%;
   bottom: 200px;
 }
 
